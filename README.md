@@ -1,2 +1,2 @@
 # Learning Path
-![learning path]('./learning_path.png')
+![learning path](./learning_path.png)
