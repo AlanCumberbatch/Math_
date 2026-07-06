@@ -1,2 +1,2 @@
-# Learning Path
-![learning path](./learning_path.png)
+之后可能会更新数学学习相关的内容吧。
+
